@@ -1,0 +1,3 @@
+# Project exclude paths
+/productive/.dart_tool/
+/productive/build/
